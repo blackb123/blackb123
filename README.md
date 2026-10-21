@@ -47,6 +47,14 @@
 
 </details>
 
+<img src="./assets/divider-capabilities.svg" alt="capabilities" width="100%" />
+
+<div align="center">
+  <img src="./assets/capabilities.svg" alt="interfaces, services, automation" width="100%" />
+</div>
+
+<br/>
+
 <img src="./assets/divider-stack.svg" alt="stack" width="100%" />
 
 <div align="center">
@@ -62,10 +70,10 @@
 <div align="center">
 
 <a href="https://github.com/blackb123">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blackb123&show_icons=true&hide_border=true&bg_color=05060A&title_color=00E5FF&icon_color=00E5FF&text_color=8A8F98&ring_color=00E5FF&rank_icon=github" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=blackb123&show_icons=true&hide_border=true&bg_color=070914&title_color=00E5FF&icon_color=9B6BFF&text_color=A9B3C5&ring_color=9B6BFF&rank_icon=github" alt="stats" />
 </a>
 <a href="https://github.com/blackb123">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackb123&layout=compact&hide_border=true&bg_color=05060A&title_color=00E5FF&text_color=8A8F98" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackb123&layout=compact&hide_border=true&bg_color=070914&title_color=00E5FF&text_color=A9B3C5" alt="top languages" />
 </a>
 
 <br/><br/>
